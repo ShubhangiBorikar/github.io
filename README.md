@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Borikar</h1>
 <h3 align="center">A Data Analyst sharing passion to uncover the hidden insights.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShubhangiBorikar](https://github.com/ShubhangiBorikar)
+- 👨‍💻 All of my projects are available at [**https://github.com/ShubhangiBorikar**](https://github.com/ShubhangiBorikar)
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/neilangelomartinez](https://www.linkedin.com/in/shubhangiborikar/)
+- 🔗 LinkedIn: **https://www.linkedin.com/in/shubhangiborikar/**
 
 - 📫 How to reach me **shubhangiborikar@gmail.com**
 
